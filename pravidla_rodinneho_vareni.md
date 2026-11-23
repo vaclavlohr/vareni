@@ -12,6 +12,17 @@
 - Ročnímu dítěti přizpůsobit měkkost, tvar a velikost soust. Jeho porci běžně odebrat před dosolením a ostrým dochucením. Množství dětských porcí plánovat podle věku a chuti, s možností přidat.
 - Jídlo do zásoby rychle zchladit v menších nádobách a dát do lednice nebo mrazáku ideálně do 1–2 hodin. Běžné vařené porce spotřebovat z lednice do 48 hodin, vařenou rýži zchladit do hodiny a z lednice spotřebovat do 24 hodin. Ohřívat jen potřebnou porci, důkladně a jednou. Před podáním dítěti zkontrolovat teplotu. Na další jídlo odkládat čistou porci před servírováním.
 
+## Recepty, nákup z Rohlíku a uložení jídelníčku
+
+Při každé tvorbě nového jídelníčku provést tyto kroky v rámci stejného zadání.
+
+1. **Vyhledat recepty ke všem jídlům.** Kde se hodí, začít u Lahodného Benedikta nebo receptů Rohlíku. U každého jídla uvést zdroj, množství surovin pro plánované porce a stručný postup vlastními slovy. Zahrnout přípravu předem, úpravu dětské porce a množství základu odloženého na další oběd, pokud se využívá.
+2. **Sestavit společný nákupní seznam.** Sloučit množství stejných surovin ze všech receptů a u společných základů započítat každou surovinu jen jednou. Zohlednit zásoby, které uživatel uvedl. Na Rohlíku dohledat dostupné výrobky a ověřit jejich balení, cenu a skladovou dostupnost. U každé položky uvést potřebné množství, název výrobku, odkaz nebo ID, velikost a počet balení, cenu za balení a cenu za nakupované množství.
+3. **Spočítat celkovou cenu v Kč.** Hlavní součet je cena všech potřebných celých balení bez dopravy. Uvést datum ověření cen a označit nabídky podmíněné členstvím nebo množstvím. U váženého zboží označit cenu podle uvedené hmotnosti jako odhad. Pokud chybí cena nebo dostupná náhrada, uvést dotčené položky a označit součet jako neúplný.
+4. **Uložit výsledek na GitHub.** V repozitáři `vaclavlohr/vareni` ve větvi `main` vytvořit nový soubor Markdown ve složce `jidelnicky/`. Do názvu dát datum nebo rozsah jídelníčku ve formátu `RRRR-MM-DD`. Pokud je název obsazený, přidat pořadové číslo. Soubor obsahuje jídelníček, recepty se zdroji, společný nákupní seznam a cenu. Po uložení poslat odkaz na soubor a celkovou cenu.
+
+Nákupní seznam je podklad pro nákup. Přidání do košíku nebo objednání vyžaduje samostatný pokyn.
+
 ## Zásady inspirované Lahodným Benediktem
 
 1. **Vařit jednoduše ze sezónních a dostupných surovin.** [Přístup Denisy Stránské](https://www.lahodnybenedikt.cz/o-denise/)
