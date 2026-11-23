@@ -4,7 +4,7 @@
 
 | Jídlo | Pro koho | Jak plánovat |
 | --- | --- | --- |
-| Oběd | 3 dospělí a 2 děti ve věku 4 a 1 rok | Sytější pokrm. Při využití základu z večeře předem odměřit množství pro všech pět strávníků. |
+| Oběd | 2 dospělí a 2 děti ve věku 4 a 1 rok. V pátek 3 dospělí a 2 děti. | Sytější pokrm. Při využití základu z večeře odměřit množství pro počet strávníků daného dne, tedy pro čtyři osoby mimo pátek a pro pět v pátek. |
 | Večeře | 2 dospělí a 2 děti ve věku 4 a 1 rok | Lehčí jídlo. V pondělí a úterý musí být hotové předem, večer stačí ohřát nebo naservírovat připravené složky. Středeční večeře má jít připravit předem. |
 
 - Pokud to jídelníček umožňuje, vařit na dva dny. Pro pondělí a úterý počítat s přípravou o víkendu a s mrazákem u jídel, která by v lednici čekala příliš dlouho.
